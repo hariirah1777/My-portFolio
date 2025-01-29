@@ -1,7 +1,0 @@
-services:
-  - type: static
-    name: my-static-site
-    repo: https://github.com/yourusername/yourrepo
-    branch: main
-    buildCommand: echo "No build step required"
-    staticPublishPath: /
